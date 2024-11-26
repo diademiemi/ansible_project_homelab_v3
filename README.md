@@ -1,3 +1,10 @@
+# Notice of archival
+Hey! I started hosting less and less on my dedicated homelab, and more on smaller servers per-project. Alongside that, I also started migrating more of my personal apps like Vaultwarden and Nextcloud to the Proton suite applications, since I was paying for that already. My local NAS does still use the code in this repo, but I'm planning on simplifying that by returning it to TrueNAS Scale too. Once I start work on a new homelab project or the like, I'll be creating a new repo to automate all that! But I'll be sunsetting this repository while it still uses the technologies described in the README, tags and description!
+
+Feel free to use this to study, and I'll be licensing it under CC0!
+
+Stay tuned for code I'll write in the future, and be sure to follow my github @x86-39 along with my specific purpose orgs @39systems, @39software and @39services I made to clean up and organise my repos!
+
 # Homelab Project
 
 This is my homelab project. It is split across a NAS at home and a dedicated server rented at Hetzner.  These run the applications I self-host.  
